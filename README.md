@@ -21,7 +21,7 @@
 ## Скриншоты выполнения
 
 1. Два пода
-![Alt text](screenshots/2 pods.png "Title")
+[Alt text](screenshots/2 pods.png)
 2. 10 подов, доступ к эндопоинту status
 
 3. 10 подов, доступ к эндпоинту пользователей
