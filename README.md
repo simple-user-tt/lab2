@@ -16,8 +16,8 @@ deployment.yaml
 ## Манифесты для создания роли дооступа к дашборбу
 cluster-role.yaml
 
-dashboard-adminuser.yaml
-[MY-LINK](dashboard-roles/dashboard-adminuser.yaml)
+
+[dashboard-adminuser.yaml](dashboard-roles/dashboard-adminuser.yaml)
 ## Скриншоты выполнения
 
 1. Два пода
