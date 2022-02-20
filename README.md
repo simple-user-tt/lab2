@@ -17,7 +17,7 @@ deployment.yaml
 cluster-role.yaml
 
 dashboard-adminuser.yaml
-
+[MY-LINK](dashboard-roles/dashboard-adminuser.yaml)
 ## Скриншоты выполнения
 
 1. Два пода
