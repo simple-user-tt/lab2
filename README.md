@@ -21,7 +21,7 @@
 ## Скриншоты выполнения
 
 1. Два пода
-[Alt text](screenshots/2 pods.png)
+[Alt text](https://github.com/simple-user-tt/lab2/blob/46a9d37dd928b2f66b1d7682b90a05b42e0461b2/screenshots/2%20pods.png)
 2. 10 подов, доступ к эндопоинту status
 
 3. 10 подов, доступ к эндпоинту пользователей
