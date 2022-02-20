@@ -13,7 +13,7 @@
 
 [deployment.yaml](kuber/deployment.yaml)
 
-## Манифесты для создания роли дооступа к дашборбу
+## Манифесты для создания роли доступа к дашборбу
 [cluster-role.yaml](dashboard-roles/cluster-role.yaml)
 
 
