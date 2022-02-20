@@ -9,12 +9,12 @@
 Цель лабораторной работы: знакомство с кластерной архитектурой на примере Kubernetes, а также деплоем приложения в кластер.
 
 ## Манифесты
-service.yaml
+[service.yaml](kuber/service.yaml)
 
-deployment.yaml
+[deployment.yaml](kuber/deployment.yaml)
 
 ## Манифесты для создания роли дооступа к дашборбу
-cluster-role.yaml
+[cluster-role.yaml](dashboard-roles/cluster-role.yaml)
 
 
 [dashboard-adminuser.yaml](dashboard-roles/dashboard-adminuser.yaml)
